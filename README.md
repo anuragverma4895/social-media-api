@@ -156,4 +156,5 @@ This project is licensed under the **MIT License**.
 
 - **Anurag Verma**  
 - GitHub: [anuragverma4895](https://github.com/anuragverma4895)  
-- Email: your-email@example.com
+- Email: your-anuragverma4895@gmail.com
+

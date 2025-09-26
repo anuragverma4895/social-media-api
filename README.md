@@ -31,11 +31,3 @@ This project provides endpoints for **user authentication, posts, comments, like
 
 ---
 
-## 📂 Project Structure
-
-/src
-┣ /routes → API routes
-┣ /controllers → Business logic
-┣ /models → Database schemas
-┣ /middlewares → Auth, validation, error handling
-┗ server.js → App entry point

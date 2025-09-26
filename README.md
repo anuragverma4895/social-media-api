@@ -1,13 +1,35 @@
-<h1 align="center">🚀 Social Media API</h1>
+# Social Media API
 
-<p align="center">
-  A powerful and scalable <b>RESTful API</b> for building modern social media applications.  
-  Supports <b>User Authentication, Posts, Comments, Likes</b> and more!  
-</p>
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#)  
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-Express-green?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-Mongoose-darkgreen?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Auth-JWT-blue?style=flat-square&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/License-MIT-orange?style=flat-square" />
-</p>
+A **RESTful API** built for social media applications.  
+This project provides endpoints for **user authentication, posts, comments, likes, and more**, making it a solid foundation for any social media platform.
+
+---
+
+## 🚀 Features
+
+- User registration & login (JWT authentication)  
+- Create, read, update, and delete (CRUD) posts  
+- Commenting and replies on posts  
+- Like/unlike functionality  
+- Basic analytics (post counts, likes, comments)  
+- Secure authentication and authorization  
+- Scalable architecture with modular code structure  
+
+---
+
+## 🛠 Tech Stack
+
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB / PostgreSQL (update based on your project)  
+- **Authentication:** JWT / OAuth  
+- **Validation:** Express-validator / Joi  
+- **Testing:** Jest / Mocha (if implemented)  
+- **Deployment:** Docker / Heroku / AWS (optional, if deployed)  
+
+---
+
+## 📂 Project Structure
+
